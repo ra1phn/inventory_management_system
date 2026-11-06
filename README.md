@@ -189,4 +189,4 @@ The application is intended as a learning project demonstrating Flask API develo
 
 ## Author
 
-Inventory Management System Project
+Ralph Njuguna
